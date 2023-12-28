@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 The First Things Is:
+  create a .env file and copy all things inside .env.dev to .env
+
+##then:
+
 ### `npm install`
 
 run this command to install all pakages
